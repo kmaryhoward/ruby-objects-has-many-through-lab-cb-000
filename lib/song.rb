@@ -15,11 +15,11 @@ class Song
   end
 
   def artist
-    self.artist
+    @artist
   end
 
   def genre
-    self.genre
+    @genre
   end
 
 
